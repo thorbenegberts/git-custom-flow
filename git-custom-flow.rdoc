@@ -1,0 +1,5 @@
+= git-custom-flow
+
+Generate this with
+    git-custom-flow rdoc
+After you have described your command line interface
