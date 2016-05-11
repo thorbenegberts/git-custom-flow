@@ -18,3 +18,7 @@ Planned functions:
 - Switch to branch by ID (e.g. from an issue tracker, has to be configured)
 - Find branches (from git or github API)
 - Switch multiple repositories for the same branch name
+
+Maybe:
+
+- Create desktop app with electron
